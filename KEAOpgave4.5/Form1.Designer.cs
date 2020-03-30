@@ -89,7 +89,7 @@
             // 
             this.listBoxX2.FormattingEnabled = true;
             this.listBoxX2.ItemHeight = 25;
-            this.listBoxX2.Location = new System.Drawing.Point(489, 152);
+            this.listBoxX2.Location = new System.Drawing.Point(491, 152);
             this.listBoxX2.Name = "listBoxX2";
             this.listBoxX2.Size = new System.Drawing.Size(220, 604);
             this.listBoxX2.TabIndex = 5;
@@ -98,7 +98,7 @@
             // 
             this.listBoxX3.FormattingEnabled = true;
             this.listBoxX3.ItemHeight = 25;
-            this.listBoxX3.Location = new System.Drawing.Point(715, 152);
+            this.listBoxX3.Location = new System.Drawing.Point(719, 152);
             this.listBoxX3.Name = "listBoxX3";
             this.listBoxX3.Size = new System.Drawing.Size(220, 604);
             this.listBoxX3.TabIndex = 6;
